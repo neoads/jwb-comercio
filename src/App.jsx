@@ -43,38 +43,38 @@ function App() {
         <section className="my-8 max-w-3xl mx-auto">
           <h3 className="text-2xl font-bold mb-4">Produtos e Serviços Disponíveis:</h3>
           <ul className="list-disc list-inside text-lg text-left">
-            <li><strong className="font-bold">Pizzas Artesanais</strong> – Receitas tradicionais italianas que combinam <strong className="font-bold">ingredientes frescos, massa artesanal e sabor autêntico</strong>.</li>
-            <li><strong className="font-bold">Massas e Molhos</strong> – Variedade de massas frescas e molhos caseiros preparados com receitas familiares.</li>
-            <li><strong className="font-bold">Produtos Importados</strong> – Ingredientes e especialidades diretamente da Itália para sua mesa.</li>
-            <li><strong className="font-bold">Atendimento Familiar</strong> – Experiência gastronômica completa com o carinho e tradição da família italiana.</li>
+            <li><strong className="font-bold">Pizzas Artesanais</strong> – Receitas especiais que combinam <strong className="font-bold">ingredientes frescos, massa artesanal e sabor autêntico</strong>.</li>
+            <li><strong className="font-bold">Massas e Molhos</strong> – Variedade de massas frescas e molhos caseiros preparados com receitas especiais.</li>
+            <li><strong className="font-bold">Bebidas e Acompanhamentos</strong> – Seleção completa de bebidas e acompanhamentos para sua refeição.</li>
+            <li><strong className="font-bold">Atendimento Familiar</strong> – Experiência gastronômica completa com o carinho e tradição da Pizza A Bessa.</li>
           </ul>
         </section>
 
         <section className="my-8 max-w-3xl mx-auto">
           <h3 className="text-2xl font-bold mb-4">Informações da Empresa:</h3>
           <ul className="list-disc list-inside text-lg text-left">
-            <li><strong className="font-bold">Razão Social:</strong> L. Tavazza Comercio de Alimentos LTDA</li>
-            <li><strong className="font-bold">Nome Fantasia:</strong> La Fornacella</li>
-            <li><strong className="font-bold">CNPJ:</strong> 09.626.241/0001-15</li>
-            <li><strong className="font-bold">Data de Abertura:</strong> 13/06/2008</li>
-            <li><strong className="font-bold">Porte:</strong> Micro Empresa</li>
+            <li><strong className="font-bold">Razão Social:</strong> Jbw Comercio de Alimentos LTDA</li>
+            <li><strong className="font-bold">Nome Fantasia:</strong> Pizza A Bessa</li>
+            <li><strong className="font-bold">CNPJ:</strong> 05.258.526/0001-90</li>
+            <li><strong className="font-bold">Data de Abertura:</strong> 26/08/2002</li>
+            <li><strong className="font-bold">Porte:</strong> Empresa de Pequeno Porte</li>
             <li><strong className="font-bold">Natureza Jurídica:</strong> Sociedade Empresária Limitada</li>
             <li><strong className="font-bold">Opção pelo MEI:</strong> Não</li>
-            <li><strong className="font-bold">Opção pelo Simples:</strong> Sim</li>
-            <li><strong className="font-bold">Data opção Simples:</strong> 01/01/2022</li>
+            <li><strong className="font-bold">Opção pelo Simples:</strong> Não</li>
+            <li><strong className="font-bold">Data opção Simples:</strong> 01/07/2007 (Excluído em 31/12/2008)</li>
             <li><strong className="font-bold">Situação Cadastral:</strong> Ativa</li>
-            <li><strong className="font-bold">Data Situação Cadastral:</strong> 13/06/2008</li>
+            <li><strong className="font-bold">Data Situação Cadastral:</strong> 07/05/2005</li>
             <li><strong className="font-bold">Tipo:</strong> Matriz</li>
-            <li><strong className="font-bold">Capital Social:</strong> R$ 10.000,00</li>
-            <li><strong className="font-bold">Inscrição Estadual (DF):</strong> 07.123.456-1</li>
+            <li><strong className="font-bold">Capital Social:</strong> R$ 100.000,00</li>
+            <li><strong className="font-bold">Inscrição Estadual (DF):</strong> 07.345.678-9</li>
           </ul>
         </section>
 
         <section className="my-8 max-w-3xl mx-auto text-center">
           <h3 className="text-2xl font-bold mb-4">Localização e Contato:</h3>
-          <p className="text-lg">📍 <strong className="font-bold">Endereço:</strong> Quadra SHC/Norte CL Quadra 312 Bloco B Lojas 02, 43 Térreo, S/N, Asa Norte, Brasília-DF, <strong className="font-bold">CEP 70765-520</strong></p>
+          <p className="text-lg">📍 <strong className="font-bold">Endereço:</strong> Setor de Habitações Coletivas Sul Q 214 Bloco C Loja 40, Asa Sul, Brasília-DF, <strong className="font-bold">CEP 70293-530</strong></p>
           <p className="text-lg">📞 <strong className="font-bold">Telefone/WhatsApp:</strong> <a href="https://wa.me/5531973198749" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">(31) 973198749</a></p>
-          <p className="text-lg mt-4">Na <strong className="font-bold">La Fornacella</strong>, estamos prontos para proporcionar a você <strong className="font-bold">uma experiência gastronômica autêntica</strong>. Visite nossa pizzaria e descubra como <strong className="font-bold">a tradição italiana pode transformar sua refeição em um momento especial!</strong> 🍕✨</p>
+          <p className="text-lg mt-4">Na <strong className="font-bold">Pizza A Bessa</strong>, estamos prontos para proporcionar a você <strong className="font-bold">uma experiência gastronômica única</strong>. Visite nossa pizzaria e descubra como <strong className="font-bold">mais de 23 anos de tradição podem transformar sua refeição em um momento especial!</strong> 🍕✨</p>
         </section>
 
         <section className="my-8 text-center">
@@ -86,35 +86,35 @@ function App() {
       <footer className="bg-gray-800 text-white p-8 mt-8">
         <div className="container mx-auto max-w-3xl">
           <h3 className="text-xl font-bold mb-4">RODAPÉ & POLÍTICA DE PRIVACIDADE</h3>
-          <h4 className="text-lg font-bold mb-2">Arg Comercio de Variedades LTDA</h4>
-          <p className="text-sm"><strong>CNPJ:</strong> 46.916.984/0001-56</p>
-          <p className="text-sm"><strong>Razão Social:</strong> ARG COMERCIO DE VARIEDADES LTDA</p>
-          <p className="text-sm"><strong>Data de Abertura:</strong> 27/06/2022</p>
-          <p className="text-sm"><strong>Porte:</strong> Micro Empresa</p>
+          <h4 className="text-lg font-bold mb-2">Jbw Comercio de Alimentos LTDA - Pizza A Bessa</h4>
+          <p className="text-sm"><strong>CNPJ:</strong> 05.258.526/0001-90</p>
+          <p className="text-sm"><strong>Razão Social:</strong> JBW COMERCIO DE ALIMENTOS LTDA</p>
+          <p className="text-sm"><strong>Data de Abertura:</strong> 26/08/2002</p>
+          <p className="text-sm"><strong>Porte:</strong> Empresa de Pequeno Porte</p>
           <p className="text-sm"><strong>Natureza Jurídica:</strong> Sociedade Empresária Limitada</p>
           <p className="text-sm"><strong>Situação Cadastral:</strong> Ativa</p>
           <p className="text-sm"><strong>Tipo:</strong> Matriz</p>
-          <p className="text-sm"><strong>Capital Social:</strong> R$ 32.000,00</p>
-          <p className="text-sm"><strong>Endereço:</strong> 1A Travessa São Sebastião, 1095, Centro, Brasil Novo-PA</p>
-          <p className="text-sm"><strong>CEP:</strong> 68148-000</p>
+          <p className="text-sm"><strong>Capital Social:</strong> R$ 100.000,00</p>
+          <p className="text-sm"><strong>Endereço:</strong> Setor de Habitações Coletivas Sul Q 214 Bloco C Loja 40, Asa Sul, Brasília-DF</p>
+          <p className="text-sm"><strong>CEP:</strong> 70293-530</p>
           <p className="text-sm"><strong>E-mail:</strong> contate@corssar.com</p>
           <p className="text-sm"><strong>Telefone/WhatsApp:</strong> (31) 973198749</p>
-          <p className="text-sm italic mt-4">Facilitando seu dia a dia com variedade e qualidade desde 2022</p>
+          <p className="text-sm italic mt-4">Sabor autêntico e tradição em cada pizza desde 2002</p>
 
           <h4 className="text-lg font-bold mt-8 mb-2">POLÍTICA DE PRIVACIDADE</h4>
-          <p className="text-sm"><strong>Arg Comercio de Variedades LTDA</strong></p>
-          <p className="text-sm"><strong>CNPJ:</strong> 46.916.984/0001-56</p>
-          <p className="text-sm"><strong>Endereço:</strong> 1A Travessa São Sebastião, 1095, Centro, Brasil Novo-PA, CEP 68148-000</p>
+          <p className="text-sm"><strong>Jbw Comercio de Alimentos LTDA - Pizza A Bessa</strong></p>
+          <p className="text-sm"><strong>CNPJ:</strong> 05.258.526/0001-90</p>
+          <p className="text-sm"><strong>Endereço:</strong> Setor de Habitações Coletivas Sul Q 214 Bloco C Loja 40, Asa Sul, Brasília-DF, CEP 70293-530</p>
 
           <h5 className="text-md font-bold mt-4 mb-2">1. Finalidade</h5>
-          <p className="text-sm">Esta política descreve como coletamos, utilizamos e protegemos os dados pessoais dos clientes que interagem conosco por meio de WhatsApp, e-mail, telefone, redes sociais ou durante visitas à nossa loja.</p>
+          <p className="text-sm">Esta política descreve como coletamos, utilizamos e protegemos os dados pessoais dos clientes que interagem conosco por meio de WhatsApp, e-mail, telefone, redes sociais ou durante visitas à nossa pizzaria.</p>
 
           <h5 className="text-md font-bold mt-4 mb-2">2. Dados Coletados</h5>
           <ul className="list-disc list-inside text-sm ml-4">
             <li><strong className="font-bold">Informações fornecidas voluntariamente:</strong>
               <ul className="list-disc list-inside text-sm ml-4">
                 <li>Nome, telefone, e-mail, endereço (para orçamentos ou entregas).</li>
-                <li>Preferências de produtos e necessidades de compra.</li>
+                <li>Preferências de sabores de pizza e necessidades de pedidos.</li>
               </ul>
             </li>
             <li><strong className="font-bold">Dados automáticos:</strong>
@@ -129,7 +129,7 @@ function App() {
           <ul className="list-disc list-inside text-sm ml-4">
             <li><strong className="font-bold">Finalidades:</strong>
               <ul className="list-disc list-inside text-sm ml-4">
-                <li>Atendimento ao cliente, orçamentos, consulta de produtos e confirmação de entregas.</li>
+                <li>Atendimento ao cliente, pedidos de pizza, consulta de cardápio e confirmação de entregas.</li>
                 <li>Não enviamos mensagens promocionais não solicitadas sem consentimento.</li>
               </ul>
             </li>
@@ -174,7 +174,7 @@ function App() {
             <li><strong className="font-bold">WhatsApp:</strong> (31) 973198749</li>
             <li><strong className="font-bold">E-mail:</strong> contate@corssar.com</li>
           </ul>
-          <p className="text-sm mt-4">© 2024 Arg Comércio de Variedades. Todos os direitos reservados.</p>
+          <p className="text-sm mt-4">© 2024 Pizza A Bessa - Jbw Comercio de Alimentos. Todos os direitos reservados.</p>
         </div>
       </footer>
     </div>
